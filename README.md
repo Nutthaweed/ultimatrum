@@ -21,7 +21,7 @@
 
 
 
-## 🚀 Quick start (Gatsby Cloud)
+## 🚀 Build a Server
 
 ```shell
 npm run build
