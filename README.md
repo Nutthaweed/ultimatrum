@@ -1,6 +1,6 @@
 <h1 align="center"> UltimatrumJS </h1>
-<p align="center"> The Ultimate Boilerplate of Nextjs +  Gastbyjs + Vitejs </p>
-
+<p align="center"> The Ultimate Boilerplate of Nextjs + Gatsbyjs + Vitejs </p>
+<p align="center"><img src="https://i.ibb.co/ZLfL0fF/Ultimatrum-removebg-preview.png"/></p>
 
 ## 🚀 Quick start with 2 step
 
