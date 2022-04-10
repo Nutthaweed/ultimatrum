@@ -1,5 +1,5 @@
 <h1 align="center"> UltimatrumJS </h1>
-<p align="center"> The Ultimate Boilerplate of Nextjs, Gastbyjs and Vitejs </p>
+<p align="center"> The Ultimate Boilerplate of Nextjs +  Gastbyjs + Vitejs </p>
 
 
 ## 🚀 Quick start with 2 step
