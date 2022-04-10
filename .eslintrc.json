@@ -1,6 +1,6 @@
 {
     "root": true,
-    "extend": "next",
+    "extends": "next",
     "rules": {
         "no-unused-vars": [
             "error",
