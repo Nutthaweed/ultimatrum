@@ -9,7 +9,7 @@
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    git clone
+    git clone https://github.com/Nutthaweed/ultimatrum.git
     npm run dev
     ```
 
