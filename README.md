@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.ibb.co/ZLfL0fF/Ultimatrum-removebg-preview.png" height="200"/></p>
 <h1 align="center"> UltimatrumJS </h1>
 <p align="center"> The Ultimate Boilerplate of Nextjs + Gatsbyjs + Vitejs </p>
-<p align= "center"><img src="https://i.ibb.co/PGbXBr6/Ultimatrum.png" width="200"/></p>
+<p align= "center"><img src="https://i.ibb.co/PGbXBr6/Ultimatrum.png" width="20000"/></p>
 ## 🚀 Quick start with 2 step
 
 1.  **Start developing.**
