@@ -2,6 +2,7 @@
 <h1 align="center"> UltimatrumJS </h1>
 <p align="center"> The Ultimate Boilerplate of Nextjs + Gatsbyjs + Vitejs </p>
 <p align= "center"><img src="https://i.ibb.co/PGbXBr6/Ultimatrum.png" width="200"/></p>
+
 ## 🚀 Quick start with 2 step
 
 1.  **Start developing.**
