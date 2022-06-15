@@ -29,4 +29,4 @@ npm run build
 ```
 
 ## Check the website
-<a href="https://typescript-example-ghif3p1ep-nutthaweed.vercel.app/">Click here</a>
+<a href="https://typescript-example-fb6mg32rb-nutthaweed.vercel.app/">Click here</a>
