@@ -27,3 +27,6 @@
 ```shell
 npm run build
 ```
+
+## Check the website
+<a href="https://typescript-example-ghif3p1ep-nutthaweed.vercel.app/">Click here</a>
